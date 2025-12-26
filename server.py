@@ -2,7 +2,7 @@
 import socket
 import threading
 
-host = "127.0.0.1" # localhost
+host = "127.0.0.1" # -> enter you LAN ip 
 
 port = 44444
 

@@ -2,7 +2,7 @@
 import socket
 import threading
 
-host = "127.0.0.1" 
+host = "127.0.0.1"  # -> use your LAN ip same as server ip
 port = 44444
 
 nickname = input("Enter your name : ")
